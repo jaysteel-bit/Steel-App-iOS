@@ -1,4 +1,4 @@
-# Steel by Exo — Foundation Summary
+# Steel by Exo — Foundation Summary (iOS Version)
 
 **Commit:** `13bc42d` — Steel by Exo iOS app foundation
 **Remote:** https://github.com/jaysteel-bit/Steel-App.git
